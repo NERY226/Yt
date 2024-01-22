@@ -1,0 +1,38 @@
+# Adlist para bloquear ads no app do YouTube Android TV
+# Criado por Bing em 22/01/2024
+# Fontes: [4](https://lifehacker.com/how-to-block-youtube-ads-on-your-android-tv-1850468423), [5](https://adguard.com/pt_br/article/how-to-block-ads-on-youtube.html), [6](https://computerhoy.com/tutoriales/como-quitar-publicidad-youtube-android-tv-chromecast-fire-tv-1307464)
+
+# Domínios relacionados ao YouTube
+r1---sn-5hne6n7s.googlevideo.com
+r2---sn-5hne6n7s.googlevideo.com
+r3---sn-5hne6n7s.googlevideo.com
+r4---sn-5hne6n7s.googlevideo.com
+r5---sn-5hne6n7s.googlevideo.com
+r6---sn-5hne6n7s.googlevideo.com
+r7---sn-5hne6n7s.googlevideo.com
+r8---sn-5hne6n7s.googlevideo.com
+r9---sn-5hne6n7s.googlevideo.com
+r10---sn-5hne6n7s.googlevideo.com
+r11---sn-5hne6n7s.googlevideo.com
+r12---sn-5hne6n7s.googlevideo.com
+r13---sn-5hne6n7s.googlevideo.com
+r14---sn-5hne6n7s.googlevideo.com
+r15---sn-5hne6n7s.googlevideo.com
+r16---sn-5hne6n7s.googlevideo.com
+r17---sn-5hne6n7s.googlevideo.com
+r18---sn-5hne6n7s.googlevideo.com
+r19---sn-5hne6n7s.googlevideo.com
+r20---sn-5hne6n7s.googlevideo.com
+s.youtube.com
+youtubei.youtube.com
+youtube.googleapis.com
+www.youtube-nocookie.com
+
+# Domínios relacionados ao Google Ads
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+googleadservices.com
+pagead2.googlesyndication.com
+pagead46.l.doubleclick.net
+partner.googleadservices.com
+tpc.googlesyndication.com
